@@ -1,0 +1,11 @@
+----------------------------------------
+Tempo total: 14
+Veiculos gerados: 26
+Deteccoes falsas: 0
+Nao detectados: 0
+
+Por tipo:
+moto:	0 a mais, 0 a menos.
+medio:	0 a mais, 0 a menos.
+longo:	0 a mais, 0 a menos.
+longo2:	0 a mais, 0 a menos.

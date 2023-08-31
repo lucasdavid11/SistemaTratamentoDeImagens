@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1688068005 source:c:\users\lucas\onedrive\documentos\projeto3\funcoes.c
+	"trabalho3.h"
+	"imagem.h"
+	"gerador_de_testes.h"
+
+1685455982 c:\users\lucas\onedrive\documentos\projeto3\trabalho3.h
+	"imagem.h"
+
+1668693044 c:\users\lucas\onedrive\documentos\projeto3\imagem.h
+
+1685456138 c:\users\lucas\onedrive\documentos\projeto3\gerador_de_testes.h
+	"imagem.h"
+	"trabalho3.h"
+
+1693523076 source:c:\users\lucas\onedrive\documentos\projeto3\gerador_de_testes.c
+	<stdlib.h>
+	<math.h>
+	"gerador_de_testes.h"
+
+1685462570 source:c:\users\lucas\onedrive\documentos\projeto3\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1688056928 source:c:\users\lucas\onedrive\documentos\projeto3\main.c
+	<stdio.h>
+	<time.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+
+1693523266 source:c:\users\lucas\onedrive\documentos\projeto3\tratamentodeimagem.c
+	"trabalho3.h"
+	"imagem.h"
+	"gerador_de_testes.h"
+
